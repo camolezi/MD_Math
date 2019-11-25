@@ -1,2 +1,2 @@
 # MD_Math
-A simple linear algebra library
+A simple generic linear algebra library.
